@@ -1,8 +1,7 @@
-# Spend Attribution 
+# Product Optimization 
 
 ## 📌 Overview
-A collection of SQL queries for attributing marketing spend, calculating spend based metrics (CAC, LTV) and building dashboards.
-The goal of the work in this repository was to provide a 'single source of truth' regarding spend and turn raw data to actionable insights.
+A collection of queries used to analyze the end-to-end user lifecycle 
 
 ## 💼 Business Value & Impact
 In my previous role, these queries were instrumental in:
