@@ -1,6 +1,5 @@
 # Product Optimization 
 
-## 📌 Overview
 A collection of queries used to analyze the performance of key feaures of a matching platform, critical site metrics and administrative functions. 
 
 ## 📈 Focus Areas
